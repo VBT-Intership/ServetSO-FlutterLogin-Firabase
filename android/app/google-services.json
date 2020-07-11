@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557589015599",
+    "firebase_url": "https://round-booking-273011.firebaseio.com",
+    "project_id": "round-booking-273011",
+    "storage_bucket": "round-booking-273011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557589015599:android:06cc69a0cd7434f905aada",
+        "android_client_info": {
+          "package_name": "com.example.form_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557589015599-pcqv9bcbrof6simp0r4bn39cvn6i6h16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoIK9sPGQKZ7X-_cVi9Q7yNQw2Oj0c_kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557589015599-pcqv9bcbrof6simp0r4bn39cvn6i6h16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
